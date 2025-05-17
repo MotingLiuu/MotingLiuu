@@ -1,5 +1,8 @@
 # 🌱 Moting.liuu
 
+## 🧑‍🎓 About Me
+ミクファン/ Miku Fan
+
 ---
 
 ## 🌟 GitHub Stats
