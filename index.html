@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Cool GitHub Homepage</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #00c6ff, #0072ff);
+            color: white;
+            overflow-x: hidden;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 4em;
+            margin-bottom: 0.5em;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+        p {
+            font-size: 1.5em;
+            max-width: 800px;
+            margin-bottom: 2em;
+            line-height: 1.6;
+        }
+        .card {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            margin: 20px;
+            border-radius: 15px;
+            max-width: 700px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        a.button {
+            background-color: white;
+            color: #0072ff;
+            padding: 15px 30px;
+            border-radius: 30px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        a.button:hover {
+            background-color: #0072ff;
+            color: white;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 20px #00c6ff, 0 0 30px #0072ff, 0 0 40px #0072ff, 0 0 50px #0072ff, 0 0 60px #0072ff, 0 0 70px #0072ff, 0 0 80px #0072ff;
+            }
+            to {
+                text-shadow: 0 0 30px #00c6ff, 0 0 40px #00c6ff, 0 0 50px #00c6ff, 0 0 60px #00c6ff, 0 0 70px #00c6ff, 0 0 80px #00c6ff, 0 0 90px #00c6ff;
+            }
+        }
+        canvas {
+            max-width: 80vw;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My GitHub</h1>
+        <p>I'm an aspiring open source developer, passionate about AI, machine learning, and creative coding. Here you'll find my projects, contributions, and ideas.</p>
+        <div class="card">
+            <h2>About Me</h2>
+            <p>Hi! I'm a master's student at Kyoto University, focusing on Natural Language Processing (NLP), deep learning, and large language models. I love contributing to open source projects and building innovative AI systems.</p>
+        </div>
+        <div class="card">
+            <h2>My Projects</h2>
+            <ul>
+                <li><a href="https://github.com/MotingLiuu/CS224N">CS224N</a></li>
+                <li><a href="https://github.com/MotingLiuu/CS61A">CS61A</a></li>
+                <li><a href="https://github.com/MotingLiuu/CV">CV</a></li>
+                <li><a href="https://github.com/MotingLiuu/minitorch">minitorch</a></li>
+            </ul>
+        </div>
+        <canvas id="starChart"></canvas>
+        <a href="https://github.com/Moting.liuu" class="button">Visit My GitHub</a>
+    </div>
+
+    <script>
+        async function fetchStarData() {
+            const response = await fetch('https://api.github.com/users/Moting.liuu/repos');
+            const repos = await response.json();
+            const labels = repos.map(repo => repo.name);
+            const stars = repos.map(repo => repo.stargazers_count);
+
+            const ctx = document.getElementById('starChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'GitHub Stars',
+                        data: stars,
+                        backgroundColor: 'rgba(255, 255, 255, 0.8)',
+                        borderColor: 'rgba(0, 114, 255, 0.8)',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+        fetchStarData();
+    </script>
+</body>
+</html>
