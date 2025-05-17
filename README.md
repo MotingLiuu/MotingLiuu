@@ -1,8 +1,8 @@
 # 🌱 Master's Student at Kyoto University
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Left" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
-  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Right" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Left" width="50" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Right" width="50" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
 </div>
 
 ---
@@ -29,16 +29,10 @@
   <a href="mailto:moting.liuu@gmail.com" style="text-decoration: none; color: #1da1f2;">
     📧 Email
   </a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://twitter.com/MotingLiuu" target="_blank" rel="noopener" style="text-decoration: none; color: #1da1f2;">
-    🐦 Twitter
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.youtube.com/results?search_query=Vsinger+Official" target="_blank" rel="noopener" style="text-decoration: none; color: #1da1f2;">
-    🎵 VSinger YouTube
-  </a>
 </div>
 
 ---
 
 <p align="center" style="font-size: 0.9em; color: #6c757d;">
-  Proud VSinger fan 🎤✨ — keeping it professional yet cute
+  
 </p>
