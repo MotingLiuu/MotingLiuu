@@ -12,10 +12,10 @@
 
 ---
 
-## 🏆 GitHub Trophies 🎤
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15&columns=3&rows=2" alt="Trophies" />
 </p>
 
 ---
