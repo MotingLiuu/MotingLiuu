@@ -1,17 +1,14 @@
-# 🌱 Master's Student at Kyoto University
-
-<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Left" width="50" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
-  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Right" width="50" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
-</div>
+# 🌱 Moting.liuu
 
 ---
 
-## 🌟 GitHub Stats 🎵✨
+## 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+| GitHub Stats |  |
+|--------------|-----------|
+| <img src="https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight" width="350"/> | <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" width="120" style="border-radius:20px; box-shadow:0 8px 20px rgba(100, 200, 255, 0.3);"/> |
+
+
 
 ---
 
