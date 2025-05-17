@@ -7,19 +7,19 @@
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 GitHub Stats 🎵✨
 
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🎤
 
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15)
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
