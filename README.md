@@ -12,15 +12,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15&columns=3&rows=2" alt="Trophies" />
-</p>
-
----
-
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center" style="font-size: 1.2em;">
   <a href="mailto:moting.liuu@gmail.com" style="text-decoration: none; color: #1da1f2;">
