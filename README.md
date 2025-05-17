@@ -1,34 +1,44 @@
-# 🌱 Master's student at Kyoto University | MIKUFUNS 🎶🎤🌸
+# 🌱 Master's Student at Kyoto University
 
-![Miku Banner](https://i.imgur.com/6L4pLlb.gif)
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+  <img src="imgs/miku.gif1.gif" alt="Miku Left" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+  <img src="imgs/miku.gif1.gif" alt="Miku Right" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+</div>
 
 ---
 
 ## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight)
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight)
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15)
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=MotingLiuu&theme=tokyonight&no-frame=true&margin-w=15)
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [Email](mailto:moting.liuu@gmail.com)
+<div align="center" style="font-size: 1.2em;">
+  <a href="mailto:moting.liuu@gmail.com" style="text-decoration: none; color: #1da1f2;">
+    📧 Email
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://twitter.com/MotingLiuu" target="_blank" rel="noopener" style="text-decoration: none; color: #1da1f2;">
+    🐦 Twitter
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.youtube.com/results?search_query=Vsinger+Official" target="_blank" rel="noopener" style="text-decoration: none; color: #1da1f2;">
+    🎵 VSinger YouTube
+  </a>
+</div>
 
 ---
 
-## 🎵 Favorite Miku Songs
-
-- 初音ミクの消失 (The Disappearance of Hatsune Miku)
-- ワールドイズマイン (World is Mine)
-- 千本桜 (Senbonzakura)
-- ロミオとシンデレラ (Romeo and Cinderella)
-
----
-
-![Miku Dancing](https://i.imgur.com/O6X09Sp.gif)
+<p align="center" style="font-size: 0.9em; color: #6c757d;">
+  Proud VSinger fan 🎤✨ — keeping it professional yet cute
+</p>
