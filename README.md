@@ -1,8 +1,8 @@
 # 🌱 Master's Student at Kyoto University
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-  <img src="imgs/miku.gif1.gif" alt="Miku Left" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
-  <img src="imgs/miku.gif1.gif" alt="Miku Right" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Left" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
+  <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" alt="Miku Right" width="140" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(100, 200, 255, 0.3);">
 </div>
 
 ---
