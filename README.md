@@ -22,7 +22,7 @@ A graduate student at KyotoU, focusing on LLM and MLSystem.
 <div align="center" style="font-size: 1.2em;">
   <a href="mailto:moting.liuu@gmail.com" style="text-decoration: none; color: #1da1f2;">
     📧 Email
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  </a>
 </div>
 
 ---
