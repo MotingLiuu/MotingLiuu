@@ -1,7 +1,8 @@
 # 🌱 Moting.liuu
 
 ## 🧑‍🎓 About Me
-ミクファン/ Miku Fan
+A graduate student in KyotoU, focusing at LLM and MLSystem.
+ミクファン/ Miku Fan.
 
 ---
 
