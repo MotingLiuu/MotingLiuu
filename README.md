@@ -1,32 +1,17 @@
-# 🌱 Moting.liuu
+### Hi there 👋 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33041)](https://codetime.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Motingliuu.Motingliuu) ![decription](https://img.shields.io/badge/Language-Python-green) ![decription](https://img.shields.io/badge/Language-Rust-blue) ![decription](https://img.shields.io/badge/Language-C++-red) 
 
-## 🧑‍🎓 About Me
-A graduate student at KyotoU, focusing on LLM and MLSystem.
+I'm Moting Liuu, a graduate student at KyotoU, focusing on LLM and MLSystem.
+However, I am still a beginner, there is still a long way to go.
 
 ミクファン/ Miku Fan.
 
----
 
-## 🌟 GitHub Stats
-
-| GitHub Stats |  |
-|--------------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=MotingLiuu&show_icons=true&count_private=true&theme=tokyonight" width="350"/> | <img src="https://github.com/MotingLiuu/MotingLiuu/blob/main/imgs/miku.gif1.gif" width="120" style="border-radius:20px; box-shadow:0 8px 20px rgba(100, 200, 255, 0.3);"/> |
-
-
-
----
-
-## 📫 Connect
-
-<div align="center" style="font-size: 1.2em;">
-  <a href="mailto:moting.liuu@gmail.com" style="text-decoration: none; color: #1da1f2;">
-    📧 Email
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MotingLiuu&height=137" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotingLiuu&layout=compact&height=137" height="150px" />
 </div>
 
 ---
 
-<p align="center" style="font-size: 0.9em; color: #6c757d;">
-  
-</p>
+📫 Email: moting.liuu@gmail.com
