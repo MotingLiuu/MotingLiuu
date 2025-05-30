@@ -1,10 +1,11 @@
 ### Hi there 👋 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33041)](https://codetime.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Motingliuu.Motingliuu) ![decription](https://img.shields.io/badge/Language-Python-green) ![decription](https://img.shields.io/badge/Language-Rust-blue) ![decription](https://img.shields.io/badge/Language-C++-red) 
 
-I'm Moting Liuu, a graduate student at KyotoU, focusing on LLM and MLSystem.
-However, I am still a beginner, there is still a long way to go.
+I'm Moting Liu, a graduate student at Kyoto University, focusing on Large Language Models (LLMs) and Machine Learning Systems.
 
-I am finding internship about LLM or MLSystem, feel free to contact me. :smile:
+I know there's still a long way to go, but I'm eager to keep learning and growing.
+
+I'm currently seeking internship opportunities related to LLMs or ML systems. Please feel free to contact me! 😊
 
 ミクファン/ Miku Fan.
 
