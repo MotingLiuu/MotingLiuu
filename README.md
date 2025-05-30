@@ -4,6 +4,8 @@
 I'm Moting Liuu, a graduate student at KyotoU, focusing on LLM and MLSystem.
 However, I am still a beginner, there is still a long way to go.
 
+I am finding internship about LLM or MLSystem, feel free to contact me. :smile:
+
 ミクファン/ Miku Fan.
 
 
