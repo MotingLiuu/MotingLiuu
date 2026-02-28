@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Motingliuu.Motingliuu) ![decription](https://img.shields.io/badge/Language-Python-green) ![decription](https://img.shields.io/badge/Language-Rust-blue) ![decription](https://img.shields.io/badge/Language-C-red) 
+![decription](https://img.shields.io/badge/Language-Python-green) ![decription](https://img.shields.io/badge/Language-Rust-blue) ![decription](https://img.shields.io/badge/Language-C-red) 
 
 I'm Moting Liu, a graduate student at Kyoto University, focusing on Large Language Models (LLMs) and Machine Learning Systems.
 
