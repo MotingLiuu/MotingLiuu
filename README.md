@@ -1,28 +1,26 @@
 <div align="center">
 
-# Hi there, I'm Moting Liu 👋
+# Hi, I'm Moting Liu.
 
-### Systems · Infrastructure · Open Source
+Systems · Infrastructure
 
-ミクファン / Miku Fan 💚
+Interested in how systems work, from low-level code to the tools we use every day.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotingLiuu&layout=compact" />
+<p>
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=c,rust,linux,neovim&amp;theme=dark" alt="C, Rust, Linux, and Neovim" height="40" />
+  </a>
+</p>
 
----
+[moting.liuu@gmail.com](mailto:moting.liuu@gmail.com)
 
-## 👨‍💻 About Me
+<br />
 
-- 🔭 Interested in **Systems / Infrastructure**
-- 🌱 Currently exploring **Operating Systems, RISC-V and Rust**
-- 💻 I enjoy understanding how things work under the hood
-- 🎧 初音ミク / Hatsune Miku fan
-- 📫 Email: moting.liuu@gmail.com
+<a href="https://tenor.com/view/hatsune-miku-dance-chibi-gif-15875552374729228028">
+  <img src="https://media.tenor.com/3FFKxcTYPvwAAAAj/hatsune-miku-dance.gif" alt="A little Hatsune Miku dancing" width="120" />
+</a>
 
----
+ミクファン / Miku Fan
 
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,linux,git,github,neovim,bash)](https://skillicons.dev)
----
-
+</div>
 
