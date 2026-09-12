@@ -17,7 +17,7 @@ Interested in how systems work.
 <br />
 
 <a href="https://tenor.com/view/hatsune-miku-dance-chibi-gif-15875552374729228028">
-  <img src="https://media.tenor.com/3FFKxcTYPvwAAAAj/hatsune-miku-dance.gif" alt="A little Hatsune Miku dancing" width="120" />
+  <img src="https://media.tenor.com/fGtCiJaIcW4AAAAi/miky-rep.gif" alt="A little Hatsune Miku dancing" width="120" />
 </a>
 
 ミクファン / Miku Fan
