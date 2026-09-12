@@ -6,7 +6,7 @@
 
 ミクファン / Miku Fan 💚
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=39C5BB&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 
 </div>
 
@@ -24,10 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,linux,bash,git,github,neovim&theme=dark" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,linux,git,github,neovim,bash)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
@@ -41,21 +38,3 @@
 </div>
 
 ---
-
-## 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=39C5BB&fire=39C5BB&currStreakLabel=39C5BB" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 世界で一番おひめさま
-
-💚 39C5BB 💚
-
-</div>
