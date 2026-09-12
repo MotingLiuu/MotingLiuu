@@ -11,7 +11,7 @@ I enjoy understanding how things work — from abstractions down to the machine.
 ### Education
 
 **Kyoto University** — M.S. in Data Science  
-**Northeastern University** — B.S. in Statistics
+**Northeastern University(Shen Yang)** — B.S. in Statistics
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
