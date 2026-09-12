@@ -2,25 +2,33 @@
 
 # Hi, I'm Moting Liu.
 
-Systems · Infrastructure
+### Systems · Infrastructure
 
-Interested in how systems work.
+Background in **Mathematics, Data Science, and Machine Learning**.  
+Currently exploring **Operating Systems, RISC-V, and Rust**.  
+I enjoy understanding how things work — from abstractions down to the machine.
+
+### Education
+
+**Kyoto University** — M.S. in Data Science  
+**Northeastern University** — B.S. in Statistics
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=c,rust,linux,python,git,bash,neovim&amp;theme=dark" alt="C, Rust, Linux, Python, Git, Bash, and Neovim" height="40" />
+    <img src="https://skillicons.dev/icons?i=c,rust,linux,python,git,bash,neovim&theme=dark" alt="C, Rust, Linux, Python, Git, Bash, and Neovim" height="40" />
   </a>
 </p>
 
-[moting.liuu@gmail.com](mailto:moting.liuu@gmail.com)
+<a href="mailto:moting.liuu@gmail.com">moting.liuu@gmail.com</a>
 
-<br />
+<br /><br />
 
 <a href="https://tenor.com/view/hatsune-miku-dance-chibi-gif-15875552374729228028">
   <img src="https://media.tenor.com/fGtCiJaIcW4AAAAi/miky-rep.gif" alt="A little Hatsune Miku dancing" width="120" />
 </a>
 
+<br />
+
 ミクファン / Miku Fan
 
 </div>
-
