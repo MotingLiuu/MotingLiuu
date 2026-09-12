@@ -8,7 +8,7 @@ Interested in how systems work.
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=c,rust,linux,neovim&amp;theme=dark" alt="C, Rust, Linux, Python, Git, Bash, and Neovim" height="40" />
+    <img src="https://skillicons.dev/icons?i=c,rust,linux,python,git,bash,neovim&amp;theme=dark" alt="C, Rust, Linux, Python, Git, Bash, and Neovim" height="40" />
   </a>
 </p>
 
