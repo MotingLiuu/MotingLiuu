@@ -29,6 +29,4 @@ I enjoy understanding how things work — from abstractions down to the machine.
 
 <br />
 
-ミクファン / Miku Fan
-
 </div>
