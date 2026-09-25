@@ -15,7 +15,7 @@ I enjoy understanding how things work — from abstractions down to the machine.
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=c,rust,linux,python,git,bash,neovim&theme=dark" alt="C, Rust, Linux, Python, Git, Bash, and Neovim" height="40" />
+    <img src="https://skillicons.dev/icons?i=c,rust,linux,python,lua,git,bash,neovim&theme=dark" alt="C, Rust, Linux, Python, Lua, Git, Bash, and Neovim" height="40" />
   </a>
 </p>
 
